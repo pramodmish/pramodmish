@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramodmish" alt="pramodmish" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pramod mishra" target="blank"><img src="https://img.shields.io/twitter/follow/pramod mishra?logo=twitter&style=for-the-badge" alt="pramod mishra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pramod mishra" target="blank"><img src="[https://img.shields.io/twitter/follow/pramod mishra?logo=twitter&style=for-the-badge](https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media)" alt="pramod mishra" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
